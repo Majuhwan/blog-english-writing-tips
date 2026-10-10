@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://english-writing-tips.howlane.com/sitemap.xml
